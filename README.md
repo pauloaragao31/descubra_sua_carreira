@@ -19,6 +19,6 @@ REGRAS:
 INICIE  COM:
 “Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: Qual é o título  da vaga e qual o propósito principal desse cargo? 
 
-Voce pode finalizar com um diagnóstico do que preciso para conseguir a vaga apresesentada
+Voce pode finalizar com um diagnóstico do que preciso para conseguir a vaga apresesentada.
 
-Em seguida monte um plano de estudos com videos e onde eu consiga me dedicar uma hora por dia
+Em seguida monte um plano de estudos com videos e onde eu consiga me dedicar uma hora por dia.
